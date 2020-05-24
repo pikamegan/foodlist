@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="About Us page for Foodlist website">
+     <title>About Us</title>
+  </head>
+
+  <hr/>
+  
+  <body style="background-color:darkred;">
+   
+   <header>
+     <h1><big><b>FOODLIST.ORG</b></medium></h1>
+      
+    
+    <h2>About Us</h2>
+    
+    <main>
+      <article>
+        <h3><b>Who are we?</b></h3>
+        <p>Welcome to Foodlist, your number one source for donations. We're dedicated to giving you the very best of our services  , with a focus on location , supplies, donation centers.
+
+
+Founded in 2020 by Megan Thong, Chelsea Alcinord and Dickson Li, Foodlist has come a long way from its beginnings in Hackathon. When we first started out, our passion for donations drove us to take action in creating this website so that Foodlist can offer you a way to make someone's life better. We now serve customers all over country, and are thrilled that we're able to turn our passion into our own website.
+
+
+WE hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
+
+        </p>  
+      </article>
+      
+      <article>
+        <h3><b>Why should you join us?</b></h3>
+        <p>Our website is completely free. Our users can find places to donate food and other supplies to shelters and people in need while in quarantine without meeting or having any contact with them. It will match users using their locations to the nearest donation centers. The advantages of our website is that people do not have any contacts with anyone and are subjected to privacy meaning they are not allowed to give away their addresses to others. They will only match to the nearest donation centers using their locations. Those in need would find out where to go to get food and other supplies they need without having to spend a dime. 
+        </p>
+        
+      </article>
+      
+      <h1><b>Subscribe below!</b></h1>
+      <input type="text" rows="5" cols="10"/>
+      <input type="submit"/>
+    </main>
+    <br/>
+    
+    <hr/><hr/>
+    <footer>
+      <p><small><i>All rights reserved. Copyright of Foodlist.org.</i></small></p>
+    </footer>
+    
+  </body>
+  
+</html>
