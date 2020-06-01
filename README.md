@@ -1,1 +1,5 @@
-    <script src="/index.html"></script>
+<html>
+
+<script src="/index.html"></script>
+
+</html>
